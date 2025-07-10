@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="images/esp32_3d_render.jpg" width="500px" alt="ESP32 Devkit V1 - 3D Render" />
+  <img src="Screenshot from 2025-07-10 16-48-06.png" width="500px" alt="ESP32 Devkit V1 - 3D Render" />
 </p>
 
 ---
